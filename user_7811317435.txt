@@ -1,0 +1,1 @@
+vless://example-id-user-7811317435@1.1.1.1:443?encryption=none&security=tls&type=grpc&serviceName=grpc#MyFreeVPN
