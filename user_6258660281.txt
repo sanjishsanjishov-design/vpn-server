@@ -1,1 +1,1 @@
-vless://f9848a19-c8a7-4f59-9dd0-820db16f41e9@104.16.211.231:443?encryption=none&security=tls&sni=www.speedtest.net&type=grpc&serviceName=grpc#VPN_TJ_STABLE_6258660281
+vless://129fd255-6128-47fb-867d-2af3bb34d145@104.17.3.184:443?encryption=none&security=tls&sni=www.speedtest.net&type=ws&host=www.speedtest.net&path=%2F%3Fed%3D2048#VPN_V2_WS_6258660281
